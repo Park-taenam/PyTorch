@@ -5,4 +5,5 @@
 - Logistic Regression
 - Softmax Classification
 - Load Data
-- DNN (MNIST)
+- DNN (MNIST Classifier)
+- DNN (Fashion MNIST Classifier)
