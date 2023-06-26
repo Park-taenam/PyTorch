@@ -4,4 +4,8 @@
 
 ## CNN
 
-## Generative Models
+## Generative Model
+- VAE
+- GAN
+- Diffusion
+
